@@ -25,7 +25,7 @@ programa
 				escreva (s2, "\n")
 				soma=s1+s2
 				
-			escreva ("prove que não é um robô:")
+			escreva ("some " ,s1, " e " ,s2, " e prove que não é um robô:")
 				leia (resposta)
 
 			se (usuario=="pedrodm" e senha=="78287828" e soma==resposta) {
@@ -45,7 +45,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 433; 
+ * @POSICAO-CURSOR = 458; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
