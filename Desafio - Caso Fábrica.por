@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro op3, op2, op1, prod, matr, h=0, m=0, mmsal=0
+		inteiro prod, matr, h=0, m=0, mmsal=0
 		inteiro medh=0, medm=0, totalpc=0, totalm=0, totalh=0
 		caracter sx
 		real sal=0.0, folha=0.0, maiorsal=0.0
@@ -333,7 +333,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 3873; 
+ * @POSICAO-CURSOR = 43; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
